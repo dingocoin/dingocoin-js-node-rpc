@@ -1,4 +1,4 @@
-# dingocoin-js-node-rpc
+# @dingocoin-js/node-rpc
 RPC wrapper library to communicate with a Dingocoin daemon.
 
 ## Installation
