@@ -1,7 +1,7 @@
 {
   "name": "@dingocoin-js/node-rpc",
   "version": "1.0.2",
-  "description": "RPC wrapper to interact with a mainnet Dingocoin daemon",
+  "description": "JavaScript wrapper library to communicate with a Dingocoin daemon via RPC calls.",
   "main": "index.js",
   "repository": "https://github.com/dingocoin/dingocoin-js-node-rpc.git",
   "author": "rkbling",
